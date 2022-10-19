@@ -1,0 +1,8 @@
+build-tree/*.txt	usr/share/unicode
+build-tree/*.bz2	usr/share/unicode
+build-tree/extracted/*	usr/share/unicode/extracted
+build-tree/auxiliary/*	usr/share/unicode/auxiliary
+build-tree/emoji/emoji-*.txt /usr/share/unicode/emoji
+allkeys.txt	usr/share/unicode
+decomps.txt usr/share/unicode
+emoji/*		/usr/share/unicode/emoji
