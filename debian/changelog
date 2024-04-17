@@ -1,3 +1,10 @@
+unicode-data (15.1.0-1) unstable; urgency=medium
+
+  * New upstream release. Closes: #1052191
+  * Standards-Version: 4.6.2
+
+ -- Alastair McKinstry <mckinstry@debian.org>  Tue, 19 Sep 2023 08:45:12 +0100
+
 unicode-data (15.0.0-1) unstable; urgency=medium
 
   * New upstream release. Closes: #1019852
