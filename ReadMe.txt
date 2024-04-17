@@ -1,25 +1,28 @@
-# Unicode Character Database
-# Date: 2022-09-12, 20:57:00 GMT [KW]
-# © 2022 Unicode®, Inc.
+# Unicode Collation Algorithm
+# Date: 2023-08-28
+# © 2023 Unicode®, Inc.
 # Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
 # For terms of use, see https://www.unicode.org/terms_of_use.html
 #
-# For documentation, see NamesList.html,
-# UAX #38, "Unicode Han Database (Unihan)"
-# UAX #42, "Unicode Character Database in XML"
-# UAX #44, "Unicode Character Database"
-# UTS #51, "Unicode Emoji"
-#
-# The UAXes and UTS #51 can be accessed at https://www.unicode.org/versions/Unicode15.0.0/
+# See https://www.unicode.org/reports/tr10/
+# for documentation regarding the latest version of the 
+# Unicode Collation Algorithm.
 
-This directory contains zipped versions of the final data files
-for Version 15.0.0 of the Unicode Standard.
+This directory contains contributory data files for
+the Unicode Collation Algorithm.
 
-Unihan.zip contains the data files for the Unihan Database.
+If you accessed this file via the URL:
 
-UCD.zip contains the collection of all other UCD data files
-(except for the Unihan Database). 
+https://www.unicode.org/Public/UCA/latest/ReadMe.txt
 
-The unzipped collection of UCD data files for Version 15.0.0 are posted in:
+then you are looking at the most current version of the data
+files for the Unicode Collation Algorithm.
 
-https://www.unicode.org/Public/15.0.0/ucd/
+If you accessed this file via
+
+https://www.unicode.org/Public/draft/UCA/ReadMe.txt
+
+then you are looking at a draft for the next version of the UCA.
+
+Otherwise the version number is part of the path name.
+
