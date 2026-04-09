@@ -1,3 +1,39 @@
+unicode-data (17.0.0-2) unstable; urgency=medium
+
+  * Push to unstable. Closes: #1114996
+  * Standards-Version: 4.7.3
+  * Drop Priority: optional from source in d/control per new policy
+  * Add VCS to d/control. Closes: #1122897
+
+ -- Alastair McKinstry <mckinstry@debian.org>  Wed, 01 Apr 2026 12:17:18 +0100
+
+unicode-data (17.0.0-1) experimental; urgency=medium
+
+  * New upstream release
+  * Fix typo; Standards-Version 4.7.2,not 4.7.22
+
+ -- Alastair McKinstry <mckinstry@debian.org>  Wed, 01 Oct 2025 14:45:18 +0100
+
+unicode-data (16.0.0-1) unstable; urgency=medium
+
+  * Fix version numbering for python-unicodedata2. Closes: #1113871
+
+ -- Alastair McKinstry <mckinstry@debian.org>  Sat, 06 Sep 2025 08:16:07 +0100
+
+unicode-data (16.0-2) unstable; urgency=medium
+
+  * Push to unstable. Closes: 1113798
+  * Standards-Version: 4.7.2
+
+ -- Alastair McKinstry <mckinstry@debian.org>  Wed, 03 Sep 2025 06:52:17 +0100
+
+unicode-data (16.0-1) experimental; urgency=medium
+
+  * New upstream release. Closes: #1081351
+  * Standards-Version: 4.7.0
+
+ -- Alastair McKinstry <mckinstry@debian.org>  Wed, 11 Sep 2024 07:33:40 +0100
+
 unicode-data (15.1.0-1) unstable; urgency=medium
 
   * New upstream release. Closes: #1052191

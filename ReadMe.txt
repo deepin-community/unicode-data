@@ -1,28 +1,24 @@
-# Unicode Collation Algorithm
-# Date: 2023-08-28
-# © 2023 Unicode®, Inc.
+# Unicode Character Database
+# Date: 2025-08-15
+# © 2025 Unicode®, Inc.
 # Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
-# For terms of use, see https://www.unicode.org/terms_of_use.html
+# For terms of use and license, see https://www.unicode.org/terms_of_use.html
 #
-# See https://www.unicode.org/reports/tr10/
-# for documentation regarding the latest version of the 
-# Unicode Collation Algorithm.
+# For documentation, see the following:
+# ucd/NamesList.html
+# UAX #38, "Unicode Han Database (Unihan)"
+# UAX #42, "Unicode Character Database in XML"
+# UAX #44, "Unicode Character Database"
+# UTS #51, "Unicode Emoji"
+# UAX #57, "Unicode Egyptian Hieroglyph Database"
+#
+# The UAXes and UTS #51 can be accessed at https://www.unicode.org/versions/Unicode17.0.0/
 
-This directory contains contributory data files for
-the Unicode Collation Algorithm.
+This directory contains the final data files 
+for Version 17.0.0 of the Unicode Standard.
 
-If you accessed this file via the URL:
+The "charts" subdirectory contains an archival set of
+pdf code charts corresponding exactly to Version 17.0.0.
 
-https://www.unicode.org/Public/UCA/latest/ReadMe.txt
-
-then you are looking at the most current version of the data
-files for the Unicode Collation Algorithm.
-
-If you accessed this file via
-
-https://www.unicode.org/Public/draft/UCA/ReadMe.txt
-
-then you are looking at a draft for the next version of the UCA.
-
-Otherwise the version number is part of the path name.
-
+The other subdirectories contain the data files for the
+Unicode Character Database and for the synchronized Unicode Technical Standards.
