@@ -16,8 +16,8 @@ build: $(STAMP_DIR)/build-stamp
 $(STAMP_DIR)/build-stamp:
 	dh_testdir
 	mkdir -p $(SOURCE_DIR) $(STAMP_DIR) 
-	(cd $(SOURCE_DIR) && TZ=UTC unzip ../UCD.zip )
-	(cd $(SOURCE_DIR) && TZ=UTZ unzip ../Unihan.zip )
+	(cd $(SOURCE_DIR) && TZ=UTC unzip ../ucd/UCD.zip )
+	(cd $(SOURCE_DIR) && TZ=UTZ unzip ../ucd/Unihan.zip )
 	( find $(SOURCE_DIR) -name '*txt' | while read f; do \
 		tr -d \\r < $$f > tmpf  ; \
 		mv tmpf $$f ;			\
